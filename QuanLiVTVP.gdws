@@ -1,0 +1,21 @@
+<Workspace
+	CID = "1"
+	NextCID = "2"
+	IconCategory = "Toolbars">
+	<OpenFiles
+		CID = "1"
+		LastActive = "1">
+		<File
+			RootPath = "$Project"
+			RelativePathname = "DatHang\DanhSachPhieuDatHang.gui"
+			ViewSettings = ""/>
+		<File
+			RootPath = "$Project"
+			RelativePathname = "DatHang\ThemPhieuDatHang.gui"
+			ViewSettings = ""/>
+		<File
+			RootPath = "$Project"
+			RelativePathname = "DatHang\CapNhatPhieuDatHang.gui"
+			ViewSettings = ""/>
+	</OpenFiles>
+</Workspace>

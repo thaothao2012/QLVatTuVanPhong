@@ -1,0 +1,92 @@
+<Catalogue
+	CID = "1"
+	NextCID = "2">
+	<Files
+		CID = "1">
+		<FileInfo
+			ID = "04114E27-A04D-4472-ADEB8E76CC7EDE6B"
+			RelativePath = "KhachHang\fb.gui"
+			OriginalRoot = "$Project"
+			OriginalPath = "KhachHang\fb.gui"
+			IsDeleted = "1"/>
+		<FileInfo
+			ID = "29F15531-0040-4892-8B3D9E50643F7D45"
+			RelativePath = "KhachHang\TimKiemKhachHang.gui"
+			OriginalRoot = "$Project"
+			OriginalPath = "KhachHang\TimKiemKhachHang.gui"/>
+		<FileInfo
+			ID = "41FD657C-7CCA-4460-98429E04E43E5490"
+			RelativePath = "KhachHang\XoaKhachHang.gui"
+			OriginalRoot = "$Project"
+			OriginalPath = "KhachHang\XoaKhachHang.gui"/>
+		<FileInfo
+			ID = "4F3FD5E2-E9A0-4A56-AE8CE059A34FF589"
+			RelativePath = "DatHang\DanhSachPhieuDatHang.gui"
+			OriginalRoot = "$Project"
+			OriginalPath = "DatHang\DanhSachPhieuDatHang.gui"/>
+		<FileInfo
+			ID = "5B81C16B-35F3-4E19-99A25FEF43E03A22"
+			RelativePath = "SanPham\DanhSachSanPham.gui"
+			OriginalRoot = "$Project"
+			OriginalPath = "SanPham\DanhSachSanPham.gui"/>
+		<FileInfo
+			ID = "7260593E-6A57-4AAC-97BD17FC571B8B75"
+			RelativePath = "KhachHang\ThemKhachHang.gui"
+			OriginalRoot = "$Project"
+			OriginalPath = "KhachHang\ThemKhachHang.gui"
+			IsDeleted = "1"/>
+		<FileInfo
+			ID = "7F4280F7-12D9-4A84-B6F803320644E6D0"
+			RelativePath = "SanPham\TimKiemSanPham.gui"
+			OriginalRoot = "$Project"
+			OriginalPath = "SanPham\TimKiemSanPham.gui"/>
+		<FileInfo
+			ID = "81BD446F-5874-4297-BADB985E55BC640C"
+			RelativePath = "SanPham\ThemSanPham.gui"
+			OriginalRoot = "$Project"
+			OriginalPath = "SanPham\ThemSanPham.gui"/>
+		<FileInfo
+			ID = "903851D9-4252-4E98-A712AAA38E22980B"
+			RelativePath = "DatHang\ThemPhieuDatHang.gui"
+			OriginalRoot = "$Project"
+			OriginalPath = "DatHang\ThemPhieuDatHang.gui"/>
+		<FileInfo
+			ID = "A31A5538-DF7D-45B6-B4CA98AC8B2C0928"
+			RelativePath = "DatHang\PhieuDatHang.gui"
+			OriginalRoot = "$Project"
+			OriginalPath = "DatHang\PhieuDatHang.gui"
+			IsDeleted = "1"/>
+		<FileInfo
+			ID = "AE4FAA66-3DD0-431D-9981E8D3E926190E"
+			RelativePath = "KhachHang\CapNhatKhachHang.gui"
+			OriginalRoot = "$Project"
+			OriginalPath = "KhachHang\CapNhatKhachHang.gui"/>
+		<FileInfo
+			ID = "C8A3BEB7-8B33-4E40-B5E8832413D5D322"
+			RelativePath = "DatHang\CapNhatPhieuDatHang.gui"
+			OriginalRoot = "$Project"
+			OriginalPath = "DatHang\CapNhatPhieuDatHang.gui"/>
+		<FileInfo
+			ID = "D42B7F1F-74DF-4B0D-A269582F5013F728"
+			RelativePath = "SanPham\CapNhatSanPham.gui"
+			OriginalRoot = "$Project"
+			OriginalPath = "SanPham\CapNhatSanPham.gui"/>
+		<FileInfo
+			ID = "E173DC86-914A-4931-A48F954D40D3574C"
+			RelativePath = "KhachHang\DanhSachKhachHang.gui"
+			OriginalRoot = "$Project"
+			OriginalPath = "KhachHang\DanhSachKhachHang.gui"/>
+		<FileInfo
+			ID = "E483FCA3-9C3F-4652-B4CC652A2F4271C5"
+			RelativePath = "KhachHang\ThemMoiKhachHang.gui"
+			OriginalRoot = "$Project"
+			OriginalPath = "KhachHang\ThemMoiKhachHang.gui"
+			IsDeleted = "1"/>
+		<FileInfo
+			ID = "E8D27FE9-4DCD-45FC-BAEE8AB461624A95"
+			RelativePath = "KhachHang\ghdhcnk.gui"
+			OriginalRoot = "$Project"
+			OriginalPath = "KhachHang\ghdhcnk.gui"
+			IsDeleted = "1"/>
+	</Files>
+</Catalogue>

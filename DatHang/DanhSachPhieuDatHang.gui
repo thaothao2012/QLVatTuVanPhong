@@ -1,0 +1,730 @@
+<Screen
+	CID = "809529475"
+	AppID = "2"
+	AppVer = "4.6.155.0"
+	DocID = ""
+	HasCanvas = "0"
+	Width = "640"
+	Height = "480"
+	NextCID = "6"
+	RepresentativeRefID = "0"
+	UseDefRepresentative = "1">
+	<Elements
+		CID = "1">
+		<Element
+			CID = "1414744695"
+			Type = "FrameWindow"
+			X = "-184"
+			Y = "-37"
+			Width = "1350"
+			Height = "750"
+			Flags = "0"
+			UseDataTable = "0"
+			TableName = ""
+			WindowColour = "255,255,255,0,15"
+			Typeface = ""
+			FontAttributes = "1"
+			TextSize = "100"
+			Title = "Quản lý vật tư văn phòng"
+			TitleBarHeight = "18"
+			IconMargin = "0"
+			BorderSize = "1"
+			IsBorderless = "0"
+			IsActive = "1"
+			IsDocWindow = "1"
+			HasSunkenWindow = "1"
+			CentreText = "0"
+			UseMutedColours = "1"
+			Mirror = "0"
+			Buttons = "7"
+			Icon = "DefaultApp"/>
+		<Element
+			CID = "1415723098"
+			Type = "RibbonBar"
+			X = "-177"
+			Y = "-38"
+			Width = "1338"
+			Height = "141"
+			Flags = "21762"
+			UseDataTable = "0"
+			TableName = ""
+			Typeface = ""
+			FontAttributes = "0"
+			TextSize = "Normal"
+			NextItemID = "8"
+			LeftMargin = "48"
+			RightMargin = "20"
+			SelectedTab = "2"
+			EnableSimSelect = "1"
+			AllContextsActive = "0"
+			Mirror = "0">
+			<RibbonBarItem
+				ItemID = "2"
+				Type = "Tab"
+				Text = "Khách hàng"
+				ContextActive = "1"
+				ContextColour = "0,0,0,0,0"/>
+			<RibbonBarItem
+				ItemID = "1"
+				Type = "Tab"
+				Text = "Sản phẩm"
+				ContextActive = "1"
+				ContextColour = "0,0,0,0,0"/>
+			<RibbonBarItem
+				ItemID = "3"
+				Type = "Tab"
+				Text = "Đặt hàng"
+				ContextActive = "1"
+				ContextColour = "0,0,0,0,0"/>
+			<RibbonBarItem
+				ItemID = "4"
+				Type = "Tab"
+				Text = "Xuất hàng"
+				ContextActive = "0"
+				ContextColour = "0,0,0,0,0"/>
+			<RibbonBarItem
+				ItemID = "7"
+				Type = "Tab"
+				Text = "Thanh toán"
+				ContextActive = "0"
+				ContextColour = "0,0,0,0,0"/>
+			<RibbonBarItem
+				ItemID = "6"
+				Type = "Tab"
+				Text = "Báo cáo"
+				ContextActive = "0"
+				ContextColour = "0,0,0,0,0"/>
+			<RibbonBarItem
+				ItemID = "5"
+				Type = "Tab"
+				Text = "Trợ giúp"
+				ContextActive = "0"
+				ContextColour = "0,0,0,0,0"/>
+		</Element>
+		<Element
+			CID = "1415716507"
+			Type = "IconButtonLarge"
+			X = "21"
+			Y = "16"
+			Width = "84"
+			Height = "80"
+			Flags = "21762"
+			UseDataTable = "0"
+			TableName = ""
+			Typeface = ""
+			FontAttributes = "0"
+			TextSize = "Normal"
+			Text = "Thêm mới"
+			Text2 = ""
+			HasDropDown = "0"
+			SplitButton = "0"
+			IsDisabled = "0"
+			Mirror = "0"/>
+		<Element
+			CID = "1415710407"
+			Type = "VerticalSeparatorLine"
+			X = "-87"
+			Y = "17"
+			Width = "12"
+			Height = "80"
+			Flags = "21761"
+			UseDataTable = "0"
+			TableName = ""/>
+		<Element
+			CID = "1415724390"
+			Type = "VerticalSeparatorLine"
+			X = "9"
+			Y = "16"
+			Width = "12"
+			Height = "80"
+			Flags = "21761"
+			UseDataTable = "0"
+			TableName = ""/>
+		<Element
+			CID = "1415728211"
+			Type = "VerticalSeparatorLine"
+			X = "105"
+			Y = "16"
+			Width = "12"
+			Height = "80"
+			Flags = "21761"
+			UseDataTable = "0"
+			TableName = ""/>
+		<Element
+			CID = "1415726751"
+			Type = "IconButtonLarge"
+			X = "117"
+			Y = "16"
+			Width = "84"
+			Height = "80"
+			Flags = "21762"
+			UseDataTable = "0"
+			TableName = ""
+			Typeface = ""
+			FontAttributes = "0"
+			TextSize = "Normal"
+			Text = "Cập nhật"
+			Text2 = ""
+			HasDropDown = "0"
+			SplitButton = "0"
+			IsDisabled = "0"
+			Mirror = "0"/>
+		<Element
+			CID = "1415734317"
+			Type = "IconButtonLarge"
+			X = "-75"
+			Y = "16"
+			Width = "84"
+			Height = "80"
+			Flags = "21762"
+			UseDataTable = "0"
+			TableName = ""
+			Typeface = ""
+			FontAttributes = "0"
+			TextSize = "Normal"
+			Text = "Tìm kiếm"
+			Text2 = ""
+			HasDropDown = "0"
+			SplitButton = "0"
+			IsDisabled = "0"
+			Mirror = "0"/>
+		<Element
+			CID = "1415717150"
+			Type = "IconButtonLarge"
+			X = "-171"
+			Y = "16"
+			Width = "84"
+			Height = "80"
+			Flags = "21762"
+			UseDataTable = "0"
+			TableName = ""
+			Typeface = ""
+			FontAttributes = "0"
+			TextSize = "Normal"
+			Text = "Danh sách"
+			Text2 = ""
+			HasDropDown = "0"
+			SplitButton = "0"
+			IsDisabled = "0"
+			Mirror = "0"/>
+		<Element
+			CID = "1415723181"
+			Type = "Table"
+			X = "-177"
+			Y = "103"
+			Width = "1337"
+			Height = "604"
+			Flags = "0"
+			UseDataTable = "0"
+			TableName = ""
+			HeaderBackgroundColour = "236,233,216,0,16"
+			HeaderBorderColour = "172,168,153,0,17"
+			HeaderTextColour = "0,0,0,0,19"
+			BackgroundColour = "172,168,153,0,13"
+			BorderColour = "164,185,127,0,12"
+			GridLineColour = "241,239,226,0,23"
+			SortedBlendColour = "64,64,64,0,0"
+			DefOddBackgroundColour = "255,255,255,0,6"
+			DefEvenBackgroundColour = "255,255,255,0,6"
+			DefTextColour = "0,0,0,0,9"
+			HighlightColour = "147,160,112,0,14"
+			HighlightTextColour = "255,255,255,0,15"
+			Typeface = ""
+			FontAttributes = "0"
+			TextSize = "Normal"
+			NextColumnID = "14"
+			NextRowID = "6"
+			IsFlat = "0"
+			IsHeaderBold = "0"
+			IsTransparent = "0"
+			HasBorder = "1"
+			HasHorzScrollBar = "1"
+			HasVertScrollBar = "1"
+			Mirror = "0"
+			HasHorzLines = "1"
+			HasVertLines = "1"
+			HasExtHorzLines = "0"
+			HasExtVertLines = "0"
+			ExtendColumnHeaders = "1"
+			ExtendColumns = "1"
+			ExtendRows = "1"
+			VariableHeightRows = "1"
+			HighlightSelections = "1"
+			FullRowSelection = "1"
+			HeaderWordWrap = "0"
+			WordWrap = "0"
+			HeaderSpace = "0"
+			HeaderHeight = "22"
+			RowHeight = "18"
+			FirstVisibleRow = "0"
+			FixedColumns = "0"
+			SortedColumn = "0"
+			ValueColumn = "0"
+			SortedBlendFactor = "0.000000"
+			ColumnSort = "Ascending"
+			HeaderStyle = "Standard"
+			FixedCellStyle = "SemiFlat">
+			<Columns>
+				<ColumnItem
+					OddBackgroundColour = "255,255,255,0,6"
+					EvenBackgroundColour = "255,255,255,0,6"
+					TextColour = "0,0,0,0,9"
+					ColumnID = "3"
+					Heading = "STT"
+					VisibleCondition = ""
+					Width = "50"
+					HeaderMargin = "0"
+					CellMargin = "0"
+					HasCustomOddBgColour = "0"
+					HasCustomEvenBgColour = "0"
+					HasCustomTextColour = "0"
+					HighlightSelections = "1"
+					Type = "Text"
+					HeadingAlignment = "Left"
+					CellAlignment = "Left"/>
+				<ColumnItem
+					OddBackgroundColour = "255,255,255,0,6"
+					EvenBackgroundColour = "255,255,255,0,6"
+					TextColour = "0,0,0,0,9"
+					ColumnID = "4"
+					Heading = "Số phiếu đặt "
+					VisibleCondition = ""
+					Width = "250"
+					HeaderMargin = "0"
+					CellMargin = "0"
+					HasCustomOddBgColour = "0"
+					HasCustomEvenBgColour = "0"
+					HasCustomTextColour = "0"
+					HighlightSelections = "1"
+					Type = "Text"
+					HeadingAlignment = "Left"
+					CellAlignment = "Left"/>
+				<ColumnItem
+					OddBackgroundColour = "255,255,255,0,6"
+					EvenBackgroundColour = "255,255,255,0,6"
+					TextColour = "0,0,0,0,9"
+					ColumnID = "12"
+					Heading = "Mã khách hàng"
+					VisibleCondition = ""
+					Width = "250"
+					HeaderMargin = "0"
+					CellMargin = "0"
+					HasCustomOddBgColour = "0"
+					HasCustomEvenBgColour = "0"
+					HasCustomTextColour = "0"
+					HighlightSelections = "1"
+					Type = "Text"
+					HeadingAlignment = "Left"
+					CellAlignment = "Left"/>
+				<ColumnItem
+					OddBackgroundColour = "255,255,255,0,6"
+					EvenBackgroundColour = "255,255,255,0,6"
+					TextColour = "0,0,0,0,9"
+					ColumnID = "11"
+					Heading = "Tên khách hàng"
+					VisibleCondition = ""
+					Width = "250"
+					HeaderMargin = "0"
+					CellMargin = "0"
+					HasCustomOddBgColour = "0"
+					HasCustomEvenBgColour = "0"
+					HasCustomTextColour = "0"
+					HighlightSelections = "1"
+					Type = "Text"
+					HeadingAlignment = "Left"
+					CellAlignment = "Left"/>
+				<ColumnItem
+					OddBackgroundColour = "255,255,255,0,6"
+					EvenBackgroundColour = "255,255,255,0,6"
+					TextColour = "0,0,0,0,9"
+					ColumnID = "6"
+					Heading = "Tên sản phẩm"
+					VisibleCondition = ""
+					Width = "100"
+					HeaderMargin = "0"
+					CellMargin = "0"
+					HasCustomOddBgColour = "0"
+					HasCustomEvenBgColour = "0"
+					HasCustomTextColour = "0"
+					HighlightSelections = "1"
+					Type = "Text"
+					HeadingAlignment = "Left"
+					CellAlignment = "Left"/>
+				<ColumnItem
+					OddBackgroundColour = "255,255,255,0,6"
+					EvenBackgroundColour = "255,255,255,0,6"
+					TextColour = "0,0,0,0,9"
+					ColumnID = "13"
+					Heading = "Ngày đặt"
+					VisibleCondition = ""
+					Width = "100"
+					HeaderMargin = "0"
+					CellMargin = "0"
+					HasCustomOddBgColour = "0"
+					HasCustomEvenBgColour = "0"
+					HasCustomTextColour = "0"
+					HighlightSelections = "1"
+					Type = "Text"
+					HeadingAlignment = "Left"
+					CellAlignment = "Left"/>
+				<ColumnItem
+					OddBackgroundColour = "255,255,255,0,6"
+					EvenBackgroundColour = "255,255,255,0,6"
+					TextColour = "0,0,0,0,9"
+					ColumnID = "7"
+					Heading = "Ngày giao"
+					VisibleCondition = ""
+					Width = "100"
+					HeaderMargin = "0"
+					CellMargin = "0"
+					HasCustomOddBgColour = "0"
+					HasCustomEvenBgColour = "0"
+					HasCustomTextColour = "0"
+					HighlightSelections = "1"
+					Type = "Text"
+					HeadingAlignment = "Left"
+					CellAlignment = "Left"/>
+				<ColumnItem
+					OddBackgroundColour = "255,255,255,0,6"
+					EvenBackgroundColour = "255,255,255,0,6"
+					TextColour = "0,0,0,0,9"
+					ColumnID = "5"
+					Heading = "Loại sản phẩm"
+					VisibleCondition = ""
+					Width = "200"
+					HeaderMargin = "0"
+					CellMargin = "0"
+					HasCustomOddBgColour = "0"
+					HasCustomEvenBgColour = "0"
+					HasCustomTextColour = "0"
+					HighlightSelections = "1"
+					Type = "Text"
+					HeadingAlignment = "Left"
+					CellAlignment = "Left"/>
+				<ColumnItem
+					OddBackgroundColour = "255,255,255,0,6"
+					EvenBackgroundColour = "255,255,255,0,6"
+					TextColour = "0,0,0,0,9"
+					ColumnID = "9"
+					Heading = "Giá"
+					VisibleCondition = ""
+					Width = "220"
+					HeaderMargin = "0"
+					CellMargin = "0"
+					HasCustomOddBgColour = "0"
+					HasCustomEvenBgColour = "0"
+					HasCustomTextColour = "0"
+					HighlightSelections = "1"
+					Type = "Text"
+					HeadingAlignment = "Left"
+					CellAlignment = "Left"/>
+				<ColumnItem
+					OddBackgroundColour = "255,255,255,0,6"
+					EvenBackgroundColour = "255,255,255,0,6"
+					TextColour = "0,0,0,0,9"
+					ColumnID = "8"
+					Heading = "Mô tả"
+					VisibleCondition = ""
+					Width = "300"
+					HeaderMargin = "0"
+					CellMargin = "0"
+					HasCustomOddBgColour = "0"
+					HasCustomEvenBgColour = "0"
+					HasCustomTextColour = "0"
+					HighlightSelections = "1"
+					Type = "Text"
+					HeadingAlignment = "Left"
+					CellAlignment = "Left"/>
+			</Columns>
+			<Data>
+				<Row
+					RowID = "1"
+					IsSelected = "0">
+					<Cell>
+						
+					</Cell>
+					<Cell>
+						
+					</Cell>
+					<Cell>
+						
+					</Cell>
+					<Cell>
+						
+					</Cell>
+					<Cell>
+						
+					</Cell>
+					<Cell>
+						
+					</Cell>
+					<Cell>
+						
+					</Cell>
+					<Cell>
+						
+					</Cell>
+					<Cell>
+						
+					</Cell>
+					<Cell>
+						
+					</Cell>
+				</Row>
+				<Row
+					RowID = "2"
+					IsSelected = "0">
+					<Cell>
+						
+					</Cell>
+					<Cell>
+						
+					</Cell>
+					<Cell>
+						
+					</Cell>
+					<Cell>
+						
+					</Cell>
+					<Cell>
+						
+					</Cell>
+					<Cell>
+						
+					</Cell>
+					<Cell>
+						
+					</Cell>
+					<Cell>
+						
+					</Cell>
+					<Cell>
+						
+					</Cell>
+					<Cell>
+						
+					</Cell>
+				</Row>
+				<Row
+					RowID = "3"
+					IsSelected = "0">
+					<Cell>
+						
+					</Cell>
+					<Cell>
+						
+					</Cell>
+					<Cell>
+						
+					</Cell>
+					<Cell>
+						
+					</Cell>
+					<Cell>
+						
+					</Cell>
+					<Cell>
+						
+					</Cell>
+					<Cell>
+						
+					</Cell>
+					<Cell>
+						
+					</Cell>
+					<Cell>
+						
+					</Cell>
+					<Cell>
+						
+					</Cell>
+				</Row>
+				<Row
+					RowID = "4"
+					IsSelected = "0">
+					<Cell>
+						
+					</Cell>
+					<Cell>
+						
+					</Cell>
+					<Cell>
+						
+					</Cell>
+					<Cell>
+						
+					</Cell>
+					<Cell>
+						
+					</Cell>
+					<Cell>
+						
+					</Cell>
+					<Cell>
+						
+					</Cell>
+					<Cell>
+						
+					</Cell>
+					<Cell>
+						
+					</Cell>
+					<Cell>
+						
+					</Cell>
+				</Row>
+				<Row
+					RowID = "5"
+					IsSelected = "0">
+					<Cell>
+						
+					</Cell>
+					<Cell>
+						
+					</Cell>
+					<Cell>
+						
+					</Cell>
+					<Cell>
+						
+					</Cell>
+					<Cell>
+						
+					</Cell>
+					<Cell>
+						
+					</Cell>
+					<Cell>
+						
+					</Cell>
+					<Cell>
+						
+					</Cell>
+					<Cell>
+						
+					</Cell>
+					<Cell>
+						
+					</Cell>
+				</Row>
+			</Data>
+		</Element>
+		<Element
+			CID = "1415715147"
+			Type = "IconButtonLarge"
+			X = "223"
+			Y = "14"
+			Width = "84"
+			Height = "80"
+			Flags = "21762"
+			UseDataTable = "0"
+			TableName = ""
+			Typeface = ""
+			FontAttributes = "0"
+			TextSize = "Normal"
+			Text = "Xóa"
+			Text2 = ""
+			HasDropDown = "0"
+			SplitButton = "0"
+			IsDisabled = "0"
+			Mirror = "0"/>
+		<Element
+			CID = "1415711296"
+			Type = "VerticalSeparatorLine"
+			X = "211"
+			Y = "14"
+			Width = "12"
+			Height = "80"
+			Flags = "21761"
+			UseDataTable = "0"
+			TableName = ""/>
+		<Element
+			CID = "1415718112"
+			Type = "Icon"
+			X = "-138"
+			Y = "28"
+			Width = "16"
+			Height = "16"
+			Flags = "3"
+			UseDataTable = "0"
+			TableName = ""
+			RootPath = "$Application"
+			Filename = "Icons\Toolbars\AlignTextJustify.ico"
+			IconIndex = "0"
+			IsDisabled = "0"/>
+		<Element
+			CID = "1415731896"
+			Type = "Icon"
+			X = "-41"
+			Y = "27"
+			Width = "16"
+			Height = "16"
+			Flags = "3"
+			UseDataTable = "0"
+			TableName = ""
+			RootPath = "$Application"
+			Filename = "Icons\Toolbars\FilePrintPreview.ico"
+			IconIndex = "0"
+			IsDisabled = "0"/>
+		<Element
+			CID = "1415740795"
+			Type = "Icon"
+			X = "258"
+			Y = "27"
+			Width = "16"
+			Height = "16"
+			Flags = "3"
+			UseDataTable = "0"
+			TableName = ""
+			RootPath = "$Application"
+			Filename = "Icons\Toolbars\Delete.ico"
+			IconIndex = "0"
+			IsDisabled = "0"/>
+		<Element
+			CID = "1415710718"
+			Type = "Icon"
+			X = "54"
+			Y = "27"
+			Width = "16"
+			Height = "16"
+			Flags = "3"
+			UseDataTable = "0"
+			TableName = ""
+			RootPath = "$Application"
+			Filename = "Icons\Toolbars\EditCopy.ico"
+			IconIndex = "0"
+			IsDisabled = "0"/>
+		<Element
+			CID = "1415713027"
+			Type = "Icon"
+			X = "150"
+			Y = "27"
+			Width = "16"
+			Height = "16"
+			Flags = "3"
+			UseDataTable = "0"
+			TableName = ""
+			RootPath = "$Application"
+			Filename = "Icons\Toolbars\FileNewBoxImage.ico"
+			IconIndex = "0"
+			IsDisabled = "0"/>
+	</Elements>
+	<Connections
+		CID = "2"/>
+	<Groups
+		CID = "3"/>
+	<SelectionGroups
+		CID = "4"/>
+	<Notes
+		CID = "5">
+		<Note
+			CID = "809520564"
+			Name = "Description"
+			NextCID = "2">
+			<Text
+				CID = "1">
+				
+			</Text>
+		</Note>
+	</Notes>
+</Screen>
